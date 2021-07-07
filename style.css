@@ -1,0 +1,39 @@
+body {
+    background-color:rgb(252, 252, 252);
+    font-family: 'EB Garamond', serif;
+    min-height: 95vh;
+    border-bottom: 1px solid black;
+    text-align: center;
+    display: table-cell;
+    vertical-align: middle;
+    width:500px;
+    color: rgb(0, 0, 0);
+  }
+  html {
+    display: table;
+    margin: auto;
+  }
+  img{
+      height: 500px;
+      width: 300px;
+      float: centre;
+  }
+  h1{
+    border-bottom: 1px solid black;
+    border:solid;
+    border-style: solid;
+    background-color: rgba(170, 20, 240, 0.308);
+  }
+  ul{
+    float: left;
+  }
+  img{
+      width: 300px;
+      height:400px;
+  }
+  h2{
+    border-bottom: 1px solid black;
+    border:solid;
+    border-style: solid;
+    background-color: rgba(170, 20, 240, 0.308);
+  }
